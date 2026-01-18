@@ -90,6 +90,7 @@ python visualizer_drag_gradio.py
 ## Run edits
 Tick the "Use raft" to activate RAFT-based point tracking method.
 
+Tick the "Feature Blending" to enable background protection through feature fusion. You can input "blur size" to control the blur scale of the mask, and select the layers for feature fusion.
 ## Acknowledgement
 
 This code is developed based on [DragGAN](https://github.com/XingangPan/DragGAN). 
