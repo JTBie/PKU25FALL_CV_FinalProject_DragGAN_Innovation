@@ -2,7 +2,7 @@
 
   <h1 align="center">Innovation of DragGAN</h1>
   <p align="center">
-    <a href="https://rovanji-pku.github.io/"><strong>Wenjie Lou</strong></a>
+    <a href="https://github.com/rovanji-pku"><strong>Wenjie Lou</strong></a>
     ·
     <a href="https://github.com/JTBie"><strong>Junting Bie</strong></a>
 
