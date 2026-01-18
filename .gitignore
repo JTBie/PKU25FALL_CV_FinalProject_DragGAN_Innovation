@@ -157,4 +157,8 @@ fabric.properties
 # Project specific - exclude large files and directories
 checkpoints/
 _screenshots/
-cache/
+__pycache__/
+
+# Exclude specific files
+check_gpu_usage.py
+test_hard_constraint.py
