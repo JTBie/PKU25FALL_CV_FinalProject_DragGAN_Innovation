@@ -162,3 +162,4 @@ __pycache__/
 # Exclude specific files
 check_gpu_usage.py
 test_hard_constraint.py
+quick_gpu_check.py
